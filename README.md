@@ -32,7 +32,7 @@ CryptoGPT shines at explaining concepts and stays mostly unbiased. It handles si
 
 ## Try It Out 💻
 
-Visit the [deployed app]([https://app-backend-ittvceuzgph3y.azurewebsites.net/) to start asking questions!  
+Visit the [deployed app](https://app-backend-ittvceuzgph3y.azurewebsites.net/) to start asking questions!  
 Want to run it locally?  
 1. Clone this repo.  
 2. Set up Azure credentials.  
